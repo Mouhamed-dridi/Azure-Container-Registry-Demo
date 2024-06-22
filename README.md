@@ -23,7 +23,8 @@ docker build -t your-image-name
  ```
 
 ## Azur Cloud Config 
-2. **Downlade Cli:**
+Now we need to install Azure CLI to be able to push the Docker image to the Azure Container Registry.
+ **Downlade Cli:**
 link  : https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 
 
